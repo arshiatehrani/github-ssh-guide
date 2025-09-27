@@ -1,5 +1,3 @@
-# github-ssh-guide
-A practical cheatsheet and step-by-step guide for using SSH with Git and GitHub. Covers setup, common commands, and troubleshooting.
 # SSH Keys for GitHub: A Comprehensive Guide
 
 This guide provides a comprehensive overview of SSH (Secure Shell) keys, their role in authenticating with GitHub, step-by-step setup instructions for various operating systems, troubleshooting tips, and an explanation of the underlying cryptographic concepts.
